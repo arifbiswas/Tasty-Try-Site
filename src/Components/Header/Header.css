@@ -1,0 +1,25 @@
+.header-container{
+
+    font-size: 25px;
+
+    
+}
+.active{
+    color: rgb(66, 66, 160);
+    outline: 5px;
+    border-bottom: solid 5px;
+    font-size: 28px;
+    font-weight: 900;
+    
+}
+header>a{
+    
+    color: rgb(106, 100, 214);
+    font-weight: 300;
+    margin: 20px;
+    font-size: 28px;
+    background: rgb(232, 232, 232);
+}
+a:hover{
+    background: rgb(208, 208, 208);
+}
